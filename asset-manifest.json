@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/firefox-new-tab-mockup/static/css/main.40c2c077.css",
+    "main.js": "/firefox-new-tab-mockup/static/js/main.2ef711f6.js",
+    "static/media/instagram.png": "/firefox-new-tab-mockup/static/media/instagram.e291349581f33a4f4b3e.png",
+    "static/media/firefox_logoTxt.png": "/firefox-new-tab-mockup/static/media/firefox_logoTxt.0c4d6a084e2688ba04de.png",
+    "static/media/google_g_logo.png": "/firefox-new-tab-mockup/static/media/google_g_logo.557f2e1ef84c72edf92c.png",
+    "static/media/settings_cog.png": "/firefox-new-tab-mockup/static/media/settings_cog.fe99ca05d529ef723f9c.png",
+    "static/media/github.png": "/firefox-new-tab-mockup/static/media/github.a5527b5c02e754fc4a6d.png",
+    "static/media/gmail.png": "/firefox-new-tab-mockup/static/media/gmail.1d59ee10a31ff4496c55.png",
+    "index.html": "/firefox-new-tab-mockup/index.html",
+    "main.40c2c077.css.map": "/firefox-new-tab-mockup/static/css/main.40c2c077.css.map",
+    "main.2ef711f6.js.map": "/firefox-new-tab-mockup/static/js/main.2ef711f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40c2c077.css",
+    "static/js/main.2ef711f6.js"
+  ]
+}
